@@ -1,6 +1,6 @@
 # Lodash (Deno)
 
-> How to use Lodash with the Deno runtime.
+> Lodash for the Deno runtime.
 
 ## Table of Contents
 
