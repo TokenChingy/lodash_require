@@ -3,3 +3,4 @@
 	url = https://github.com/lodash/lodash/
 	branch = npm
 	fetchRecurseSubmodules = true
+	ignore = untracked
