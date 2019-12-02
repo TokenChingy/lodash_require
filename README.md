@@ -6,9 +6,15 @@
 
 - [Lodash (Deno)](#lodash-deno)
   - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
   - [Usage](#usage)
   - [API](#api)
   - [Links](#links)
+
+## Installation
+
+1. Firstly clone this repository.
+2. Then clone the submodule `lodash`. To do this, run `git submodule update --init --recursive`.
 
 ## Usage
 
