@@ -1,10 +1,10 @@
-# require_lodash
+# lodash_require
 
 > Lodash for the Deno runtime.
 
 ## Table of Contents
 
-- [require_lodash](#require_lodash)
+- [lodash_require](#lodash_require)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
